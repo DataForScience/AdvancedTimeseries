@@ -13,7 +13,6 @@ In this lecture, we will introduce you to the libraries that Python provides for
 Slides: https://data4sci.com/landing/advanced-timeseries/
 
 ## Schedule
-The timeframes are only estimates and may vary according to how the class is progressing:
 
 ### 1. Pandas for Time Series
 - DataFrames and Series

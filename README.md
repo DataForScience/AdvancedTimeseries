@@ -1,3 +1,13 @@
+![GitHub](https://img.shields.io/github/license/DataForScience/AdvancedTimeseries)
+[![Twitter @data4sci](https://img.shields.io/twitter/follow/data4sci)](https://twitter.com/intent/follow?screen_name=data4sci)
+![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/AdvancedTimeseries)
+![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/AdvancedTimeseries)
+![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/AdvancedTimeseries)
+
+[![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
+[![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/AdvancedTimeseries/master)
 
 # Timeseries for Everyone
